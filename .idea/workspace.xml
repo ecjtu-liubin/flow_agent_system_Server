@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0260048-3c0f-49a9-b9d7-1c164c462c6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\pycharm\0pycharm_project\flow_agent_system\day_7_27" />
       <recent name="H:\pycharm\0pycharm_project\flow_agent_system" />
     </key>
   </component>
@@ -91,9 +91,25 @@
       <option name="presentableId" value="Default" />
       <updated>1627295331359</updated>
     </task>
+    <task id="LOCAL-00001" summary="7/27">
+      <created>1627390012954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627390012954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/27" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="6" key="CommitChangelistDialog2" timestamp="1627390132536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627390132536" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1627304912211">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
