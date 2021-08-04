@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0260048-3c0f-49a9-b9d7-1c164c462c6b" name="Default Changelist" comment="" />
+    <list default="true" id="e0260048-3c0f-49a9-b9d7-1c164c462c6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/client/TCP_echo_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/client/TCP_echo_client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/client/client.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/client/client_ssl/mycertfile.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/client/client_ssl/mykeyfile.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/client_config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/client/test_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/RPC_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/TCP_echo_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/client_as_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/server.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/server_ssl/mycertfile.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/server_ssl/mykeyfile.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/server/server/user.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/virtual_traffic/test_start_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_2&amp;8_3/traffic_forwarding/virtual_traffic/test_start_server2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +40,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/8_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8_2&amp;8_3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\pycharm\0pycharm_project\flow_agent_system\8_2&amp;8_3" />
       <recent name="H:\pycharm\0pycharm_project\flow_agent_system\8_1" />
       <recent name="H:\pycharm\0pycharm_project\flow_agent_system\7_31" />
       <recent name="H:\pycharm\0pycharm_project\flow_agent_system\7_30" />
       <recent name="H:\pycharm\0pycharm_project\flow_agent_system\7_29_register_cmd" />
-      <recent name="H:\pycharm\0pycharm_project\flow_agent_system\version_01" />
     </key>
   </component>
   <component name="RunManager" selected="Python.TCP_echo_server">
